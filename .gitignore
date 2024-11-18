@@ -1,0 +1,5 @@
+/.direnv
+/.zed
+
+/dist
+/node_modules
